@@ -1,0 +1,13 @@
+COMO ADICIONAR ARQUIVOS
+
+Posso selecionar somente o arquivo que quero adicionar
+- git add src/index.html
+
+Posso selecionar uma paste que quero adicionar
+- git add src/styles
+
+Posso adicionar todos os arquivos que não estão no repositório, 'untracked'
+- git add . 
+
+Após adicionar os arquivos devo fazer um comentário obrigatório para enviar os documentos para o repositório
+- git commit -m 'mensagem'
