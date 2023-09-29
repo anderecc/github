@@ -1,3 +1,6 @@
 REMOVER UM ARQUIVO 
 
+Devo remover um arquivo com
 - git rm src/c.txt
+
+Após isso devo dar commit para salvar as alterações e mandar para o repositório
