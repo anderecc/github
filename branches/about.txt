@@ -1,0 +1,5 @@
+O que são branches?
+
+Branch é a forma que o git separa as versões do projeto
+
+Como se fosse uma pasta que cada usuário pode modificar sua versão, todas a partir do master

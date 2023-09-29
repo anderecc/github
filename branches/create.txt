@@ -1,0 +1,7 @@
+VISUALIZAR BRANCHES E CRIA-LOS
+
+Para visualizar as branches
+- git branch
+
+Para criar uma branch
+- git branch <nome da brach>

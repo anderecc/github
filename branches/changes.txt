@@ -1,0 +1,5 @@
+MUDAR DE BRANCH
+
+- git checkout <nome da branch>
+
+Toda modificação que eu fizer na branch eu devo fazer o commit dela mesmo, se não ele vai aparecer na master/main permitindo o commit dos arquivos
