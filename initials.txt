@@ -1,0 +1,14 @@
+echo "# github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anderecc/github.git
+git push -u origin main
+
+posso remover origin com 
+- git remote rm origin
+e adicionar novamente com 
+- git remote add origin https://...
+para ver qual origin tenho 
+- git remote -v
