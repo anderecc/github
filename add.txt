@@ -10,4 +10,10 @@ Posso adicionar todos os arquivos que não estão no repositório, 'untracked'
 - git add . 
 
 Após adicionar os arquivos devo fazer um comentário obrigatório para enviar os documentos para o repositório
+
+Para mensagem de arquivo especifico devo fazer
+
+- git commit add.txt -m 'enviando o arquivo add.txt'
+
+Para mensagem geral de todos os arquivos
 - git commit -m 'mensagem'
