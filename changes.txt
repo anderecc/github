@@ -1,5 +1,7 @@
 VERIFICANDO MUDANÇAS NO PROJETO
 
-para ver modificações ou arquivos novos que não estão no repositório 
+Para ver modificações ou arquivos novos que não estão no repositório 
 - git status 
 
+Para eu puxar as alterações que foram enviadas para o repositório
+- git pull 

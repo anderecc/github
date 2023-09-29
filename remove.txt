@@ -1,0 +1,3 @@
+REMOVER UM ARQUIVO 
+
+- git rm src/c.txt

@@ -1,0 +1,4 @@
+PARA CLONAR UM REPOSITÓRIO
+
+- git clone https://... .
+* Se eu adicionar o ponto no final ele vai entender que é para clonar nessa pasta, como descompactar um arquivo

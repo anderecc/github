@@ -17,3 +17,6 @@ Para mensagem de arquivo especifico devo fazer
 
 Para mensagem geral de todos os arquivos
 - git commit -m 'mensagem'
+
+Para terminar e enviar os arquivos para o repositório
+- git push -u origin main
