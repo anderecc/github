@@ -1,5 +1,8 @@
 POSSO RENOMEAR UM ARQUIVO OU MOVER O MESMO 
 
-Para renomear um arquivo 
+Para mover um arquivo 
 - git mv app.css src/css/app.css
 * A ordem correta é o nome do arquivo primeiro e onde ele se encontra, depois para onde desejas enviar o arquivo com o caminho
+
+Para renomear um arquivo
+- git mv src/css/app.css src/css/main.css

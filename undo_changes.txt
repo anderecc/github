@@ -1,0 +1,4 @@
+DESFAZER ALTERAÇÕES 
+
+Posso refazer as alterações que são as que estão no repositório
+- git checkout checkout.txt 
