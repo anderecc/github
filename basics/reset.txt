@@ -1,0 +1,5 @@
+POSSO RESETAR UMA BRANCH
+
+
+Vai resetar todas as modificações em todos os arquivos e voltar para o ultimo pull que fiz
+- git reset --hard origin/main

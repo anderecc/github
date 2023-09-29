@@ -1,0 +1,3 @@
+POSSO IGNORAR ARQUIVOS 
+
+Devo criar um arquivo .gitignore e colocar os arquivos que devem ser ignorados
