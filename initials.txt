@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/anderecc/github.git
 git push -u origin main
 
-posso remover origin com 
+POSSO REMOVER ORIGIN COM 
 - git remote rm origin
 e adicionar novamente com 
 - git remote add origin https://...

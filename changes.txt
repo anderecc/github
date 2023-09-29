@@ -1,0 +1,5 @@
+VERIFICANDO MUDANÇAS NO PROJETO
+
+para ver modificações ou arquivos novos que não estão no repositório 
+- git status 
+
