@@ -2,3 +2,5 @@ POSSO CRIAR SUBMÓDULOS DENTRO DE UM REPOSITÓRIO
 
 Para verificar os submodules que temos no repositório
 - git submodule
+
+como se eu fosse usar uma lib de alguém dentro do meu repo, posso receber as atualizações da mesma 

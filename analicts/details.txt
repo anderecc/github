@@ -1,0 +1,6 @@
+EXIBINDO INFORMAÇÕES SOBRE OS BRANCHES E COMMITS DO MESMO
+
+- git show 
+
+Podemos usar em uma tag também
+-git show <nome da tag>
