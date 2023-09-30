@@ -1,0 +1,5 @@
+LIMPAR OS ARQUIVOS UNTRACKED 
+
+Exemplo, preciso enviar commit mas não quero enviar as imagens que foram geradas
+
+- git clean

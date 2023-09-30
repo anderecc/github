@@ -1,0 +1,7 @@
+UTILIZADO PARA SABER AS ATUALIZAÇÕES DO PROJETO
+
+Com o shortlog ele vai resumir com o nome do author do commit e a mensagem do commit
+- git shortlog
+
+Com o log ele vai trazer tudo sobre o commit e o seu author
+- git log
