@@ -1,0 +1,14 @@
+PODEMOS CRIAR TAGS NAS BRANCHES
+A tag é diferente de uma stash, é como se fosse um checkpoint, como se para dar commit na branch, versão...
+
+Criar uma tag 
+- git tag -a <nome da tag> -m 'mensagem da tag'
+
+Para ver as tags 
+- git tag
+
+Ver os detalhes da tag
+- git show <nome da tag>
+
+Enviar a tag em si para o repositório
+- git push origin <nome da tag>

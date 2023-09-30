@@ -1,3 +1,5 @@
 DELETAR UMA BRANCH 
 
 - git branch -d ou --delete <nome da branch>
+
+para o stash

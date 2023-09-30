@@ -1,0 +1,20 @@
+STASH É UMA SOLUÇÃO PARA SALVAR AS ALTERAÇÕES FEITAS PARA PROSSEGUIR COM UMA ABORDAGEM DIFERENTE
+Quero dizer que posso dar um checkout mas salvar o que já foi feito
+
+Criar uma stash 
+- git stash 
+
+Para ver as stash já feitas 
+- git stash list
+
+Para recuperar uma stash 
+- git stash apply <nome da stash>
+
+Para ver as alterações de cada stash 
+- git stash show -p <numero da stash>
+
+Remover todas as stash 
+- git stash clear
+
+Remover uma stash 
+- git stash drop <numero da stash>
