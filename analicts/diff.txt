@@ -1,0 +1,7 @@
+PARA EXIBIR AS DIFERENÇAS 
+
+Ver as diferenças da main/master
+- git diff
+
+Para ver a diferença entre dois arquivos
+- git diff <name file1> <name file2>
