@@ -1,0 +1,3 @@
+PARA EU JUNTAR MINHA MAIN/MASTER COM UMA BRANCH
+
+- git merge origin/<nome da branch>

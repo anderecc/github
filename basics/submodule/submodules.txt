@@ -1,0 +1,4 @@
+POSSO CRIAR SUBMÓDULOS DENTRO DE UM REPOSITÓRIO
+
+Para verificar os submodules que temos no repositório
+- git submodule

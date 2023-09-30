@@ -1,0 +1,6 @@
+POSSO REMOVER ORIGIN COM 
+- git remote rm origin
+e adicionar novamente com 
+- git remote add origin https://...
+para ver qual origin tenho 
+- git remote -v

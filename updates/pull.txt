@@ -1,0 +1,5 @@
+PARA RECEBER ATUALIZAÇÕES DO REPOSITÓRIO
+
+
+Sempre atualizar a branch ou a master/main para iniciar 
+- git pull 
