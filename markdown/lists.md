@@ -16,3 +16,10 @@
         1. Definir diferença
 2. Integração com o backend
 3. Explicar o que faz e como fazer
+
+## Podemos fazer também listas de tarefas (somente no github)
+
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [x] Sistema de gerenciamento
