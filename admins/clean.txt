@@ -3,3 +3,9 @@ LIMPAR OS ARQUIVOS UNTRACKED
 Exemplo, preciso enviar commit mas não quero enviar as imagens que foram geradas
 
 - git clean
+
+Para remover um arquivo especifico 
+- git clean -i <path file>
+
+Melhor adicionar primeiros os arquivos necessário e depois remover os desnecessários
+- git clean -f

@@ -1,0 +1,3 @@
+POSSO TRANSFORMAR MEU REPOSITÓRIO EM UM ARQUIVO ZIP
+
+- git archive --format zip --output <name archive.zip> <nome da branch>
