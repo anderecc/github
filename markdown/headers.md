@@ -7,4 +7,7 @@
 vai até o h6 só que com #
 
 ## Exemplos
+    Separados por funcionalidades
 
+###### Melhorias do projeto
+    Melhorar tal funcionalidade
